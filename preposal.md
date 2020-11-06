@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Make a simple puzzle game
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Do not plan to collaborate
 
 ## Do you have any questions of your own?
 
-TODO
+None as of (11/6/2020)
